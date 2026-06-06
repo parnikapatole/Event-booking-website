@@ -1,0 +1,6 @@
+{
+  "name": "Event Booking Platform",
+  "description": "A modern and responsive web application for finding, exploring, filtering, and booking tickets for upcoming concerts, seminars, workshops, and festivals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
